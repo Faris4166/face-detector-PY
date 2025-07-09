@@ -71,5 +71,5 @@
 
   
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/219/219234.gif](https://i.pinimg.com/originals/2d/5d/9c/2d5d9cda8f9c654858c3dad6ecf79063.gif" alt="centered gif">
+  <img src="https://i.pinimg.com/originals/2d/5d/9c/2d5d9cda8f9c654858c3dad6ecf79063.gif" alt="centered gif">
 </div>
